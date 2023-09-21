@@ -1,0 +1,10 @@
+.user-container{
+    background-color: darkcyan;
+    border-radius: 10px;
+    padding: 8px;
+    
+}
+
+.user-container a{
+    color: yellowgreen;
+}
